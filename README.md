@@ -27,7 +27,7 @@ Combiner.Combine()
 
 Словарь с данными можно получить выполнив команду
 ```py
-CreateDictOfFilesData()
+Reader.CreateDictOfFilesData()
 ```
 
 Она параметрами принимает следующие аргументы:
